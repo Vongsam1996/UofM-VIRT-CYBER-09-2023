@@ -161,7 +161,3 @@ $whoami
 $cd /root 
 $cat root.txt
 - Flag 4: THM{e8996faea46df09dba5676dd271c60bd}
-
-
-
-https://github.com/Slowdeb/Tryhackme/blob/main/VulnNet%20internal.md

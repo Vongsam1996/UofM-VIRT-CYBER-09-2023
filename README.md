@@ -11,3 +11,7 @@ https://docs.google.com/document/d/1j1FWJXxQeP-55Up1z2E9Xa2hlhEUuCO4zaYM7A7lDRg/
 
 Pen Testing (MegaCorp)    
 https://docs.google.com/document/d/1Rb-94kQeJc7g_qvHE2cDvbUNu63LqppPNAT5Gh2Mzlk/edit?usp=sharing
+
+Capture the Flag     
+https://docs.google.com/document/d/1NyOvRPJS6gXJhA7ktxBDFld-DoqzwH__b0urIllw-Y4/edit?usp=sharing
+
